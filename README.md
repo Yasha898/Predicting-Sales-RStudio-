@@ -1,0 +1,1 @@
+This RStudio project focuses on predicting sales of various advertising channels such as newspapers, radio, TV, etc., using machine learning techniques. By analyzing historical data on advertising spending and corresponding sales figures, the project aims to build predictive models that can forecast sales based on future advertising investments.
